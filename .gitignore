@@ -10,5 +10,5 @@ UpgradeLog.*
 *.*.suo
 *.suo
 *.user
-
+/Otp/packages
 /Otp/TestResults
